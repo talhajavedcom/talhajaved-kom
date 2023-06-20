@@ -1,8 +1,5 @@
-[![MasterHead](https://ibb.co/VwFbx8W)](https://talhajaved.com)
-
 <h1 align="center">Hi 👋, I'm Talha Javed</h1>
 <h3 align="center">I am a passionate Full Stack Web Developer with a deep enthusiasm for creating engaging digital experiences. With a strong focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack, I have honed my skills in both front-end and back-end development. From designing intuitive user interfaces to developing robust server-side architectures, I strive to build scalable and efficient web solutions. With a keen eye for detail and a commitment to delivering high-quality code, I am dedicated to crafting dynamic and immersive digital experiences that captivate users and drive business growth. Let's collaborate and bring your ideas to life on the web!</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=talhajaved-kom&label=Profile%20views&color=0e75b6&style=flat" alt="talhajaved-kom" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talhajaved-kom" alt="talhajaved-kom" /></a> </p>
